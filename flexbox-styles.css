@@ -5,9 +5,19 @@ main{
     display: flex;
 }
 section{
-    border: 1px solid red;
 flex: 1;
 }
 section#appetizers{
     flex: 2;
+}
+section#appetizers,section#mains,section#desserts{
+    background-color: gray;
+
+
+
+
+
+
+
+
 }
