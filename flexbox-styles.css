@@ -1,0 +1,13 @@
+*{
+box-sizing:border-box
+}
+main{
+    display: flex;
+}
+section{
+    border: 1px solid red;
+flex: 1;
+}
+section#appetizers{
+    flex: 2;
+}
